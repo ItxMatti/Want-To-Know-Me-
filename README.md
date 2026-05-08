@@ -237,9 +237,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matti11281/Matti11281/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matti11281/Matti11281/output/github-snake.svg"/>
-    <img alt="Snake eating contributions" width="96%" src="https://raw.githubusercontent.com/Matti11281/Matti11281/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItxMatti/ItxMatti/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItxMatti/ItxMatti/output/github-snake.svg"/>
+    <img alt="Snake eating contributions" width="96%" src="https://raw.githubusercontent.com/ItxMatti/ItxMatti/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
