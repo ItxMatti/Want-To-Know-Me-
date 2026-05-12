@@ -21,7 +21,7 @@
 &nbsp;
 ![Location](https://img.shields.io/badge/📍%20Pakistan-green?style=for-the-badge)
 &nbsp;
-![Status](https://img.shields.io/badge/⚡%20Open%20To%20Hire-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/⚡%20Open%20To%20Intern-brightgreen?style=for-the-badge)
 
 </div>
 
